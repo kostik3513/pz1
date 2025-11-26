@@ -1,6 +1,5 @@
 ## <img width="952" height="483" alt="image" src="https://github.com/user-attachments/assets/87e518d9-fb40-488b-b870-1eddc779d91c" />
-
-'''
+```
 #include <iostream>
 #include <string>
 #include <windows.h>
@@ -36,4 +35,5 @@ int main() {
 
     return 0;
 }
-'''
+
+```
