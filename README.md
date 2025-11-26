@@ -37,3 +37,5 @@ int main() {
 }
 
 ```
+
+<img width="533" height="223" alt="image" src="https://github.com/user-attachments/assets/4b55d5f5-9f83-483c-a074-ea6736b48f71" />
